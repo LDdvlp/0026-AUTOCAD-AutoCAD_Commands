@@ -11,7 +11,7 @@
 
 |#|Français|English|Raccourci|
 |:---:|:---:|:---:|:---:|
-|01|`GRILLE`|`GRID`|``|
+|01|`GRILLE`|`GRID`|---|
 |02|`LIGNE`|`LINE`|`L`|
 |03|`POLYLIGN`|`PLINE`|`PL`|
 |04|`RECTANG`|`RECTANG`|---|
