@@ -2,7 +2,7 @@
 |:---:|:---:|---:|:---|
 |***0026***|*Loïc Drouet*|_Mercredi 13 novembre 2024_|_Mercredi 13 novembre 2024_|
 
-# AutoCAD Commands
+# AutoCAD Commands FR/EN Translation
 
 ---
 - [Liste de commandes francais / anglais](https://cadxp.com/topic/6654-liste-de-commandes-francais-vs-anglais/)
@@ -31,8 +31,9 @@
 |18|`ECHELLE`|`SCALE`|`SC`|
 |19|`REGEN`|`REGEN`|`RE`|
 |20|`SCU`|`UCS`|---|
-|21|`MESURER`|`MEASURE`|`ME`|
-|22|`MEASUREGEOM`|`MEASUREGEOM`|`MEA`|
-|23|`DISTANCE`|`DIST`|`DI`|
-|24|`ETAT`|`STATUS`|---|
-|25|`MISENPAGE`|`PAGESETUP`|---|
+|21|`REPERE`|`PLAN`|---|
+|22|`MESURER`|`MEASURE`|`ME`|
+|23|`MEASUREGEOM`|`MEASUREGEOM`|`MEA`|
+|24|`DISTANCE`|`DIST`|`DI`|
+|25|`ETAT`|`STATUS`|---|
+|26|`MISENPAGE`|`PAGESETUP`|---|
